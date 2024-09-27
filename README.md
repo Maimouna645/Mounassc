@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mounassc
-👀 I'm interested in embedded systems 
+- 👀 I'm interested in embedded systems 
 - 🌱 I’m currently learning C for embedded Systems
 
 
